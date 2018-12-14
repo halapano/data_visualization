@@ -1,1 +1,1 @@
- A excercise of data visualization in python.
+ An excercise of data visualization in python.
